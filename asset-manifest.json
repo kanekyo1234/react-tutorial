@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.js": "/react-tutorial/static/js/main.cc004133.chunk.js",
-    "main.js.map": "/react-tutorial/static/js/main.cc004133.chunk.js.map",
+    "main.js": "/react-tutorial/static/js/main.cbe11b6a.chunk.js",
+    "main.js.map": "/react-tutorial/static/js/main.cbe11b6a.chunk.js.map",
     "runtime-main.js": "/react-tutorial/static/js/runtime-main.ee9240c0.js",
     "runtime-main.js.map": "/react-tutorial/static/js/runtime-main.ee9240c0.js.map",
-    "static/css/2.c3343ac3.chunk.css": "/react-tutorial/static/css/2.c3343ac3.chunk.css",
-    "static/js/2.65dba0d5.chunk.js": "/react-tutorial/static/js/2.65dba0d5.chunk.js",
-    "static/js/2.65dba0d5.chunk.js.map": "/react-tutorial/static/js/2.65dba0d5.chunk.js.map",
+    "static/css/2.23f25595.chunk.css": "/react-tutorial/static/css/2.23f25595.chunk.css",
+    "static/js/2.43182b89.chunk.js": "/react-tutorial/static/js/2.43182b89.chunk.js",
+    "static/js/2.43182b89.chunk.js.map": "/react-tutorial/static/js/2.43182b89.chunk.js.map",
     "index.html": "/react-tutorial/index.html",
-    "precache-manifest.44b3a456c39dccc842d94c9440e9f224.js": "/react-tutorial/precache-manifest.44b3a456c39dccc842d94c9440e9f224.js",
+    "precache-manifest.8673d3b3191b9e7fc9ce28c5cf339ca0.js": "/react-tutorial/precache-manifest.8673d3b3191b9e7fc9ce28c5cf339ca0.js",
     "service-worker.js": "/react-tutorial/service-worker.js",
-    "static/css/2.c3343ac3.chunk.css.map": "/react-tutorial/static/css/2.c3343ac3.chunk.css.map",
-    "static/js/2.65dba0d5.chunk.js.LICENSE.txt": "/react-tutorial/static/js/2.65dba0d5.chunk.js.LICENSE.txt",
+    "static/css/2.23f25595.chunk.css.map": "/react-tutorial/static/css/2.23f25595.chunk.css.map",
+    "static/js/2.43182b89.chunk.js.LICENSE.txt": "/react-tutorial/static/js/2.43182b89.chunk.js.LICENSE.txt",
     "static/media/DEAMN3.jpg": "/react-tutorial/static/media/DEAMN3.1a22e47c.jpg",
     "static/media/Jonas.jpg": "/react-tutorial/static/media/Jonas.d7c328e9.jpg",
     "static/media/Matin.jpg": "/react-tutorial/static/media/Matin.d76e3b14.jpg",
-    "static/media/Top.jpg": "/react-tutorial/static/media/Top.71f1aec7.jpg"
+    "static/media/Top.jpg": "/react-tutorial/static/media/Top.71f1aec7.jpg",
+    "static/media/all.min.css": "/react-tutorial/static/media/fa-solid-900.ec763292.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ee9240c0.js",
-    "static/css/2.c3343ac3.chunk.css",
-    "static/js/2.65dba0d5.chunk.js",
-    "static/js/main.cc004133.chunk.js"
+    "static/css/2.23f25595.chunk.css",
+    "static/js/2.43182b89.chunk.js",
+    "static/js/main.cbe11b6a.chunk.js"
   ]
 }
